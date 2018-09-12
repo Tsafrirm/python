@@ -2,13 +2,15 @@
 
 ### The project runs under windows machine
 
-##### The project is OOP-based and uses Page Objects
+##### The project is OOP-based and uses Page Object.
 ##### The page object represents an area in the web application UI.
 ##### This technique allows us to:
 
-##### 1. Creating reusable code
-##### 2. Reducing duplicated code
-##### 3. In case of chaning in the user interface , we to fix only in one place
+##### 1. Creating reusable code.
+##### 2. Reducing duplicated code.
+##### 3. In case of chaning in the user interface , we have to fix only in one place.
+
+## Files and classes
 
 ### mytests.py
 #### Includes the tests, each test is a unittest test case.
